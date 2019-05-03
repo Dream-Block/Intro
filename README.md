@@ -2,7 +2,7 @@
 
 ![Logo](https://i.loli.net/2019/04/13/5cb1f3939fbca.jpg)
 
-[English Version](README-en.md)
+[English Version](README.en.md)
 
 **D**ream **B**lock **R**esource **T**eam 是一个由资深 Minecraft 玩家、资源创作者和游戏爱好者自发建立的资源创作组织，来自中国。
 
