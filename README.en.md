@@ -27,6 +27,6 @@ Sorry, because this is the project we use to collect user feedback, we don't sup
 Sorry, we are not recruiting non-Chinese members for the time being.
 
 **Notice:**
-There is no discrimination here. We won't recruit non-Chinese members because our scale is not big enough and still needs certain development. Thank you for understanding ;) 
+There is no (racial or general) discrimination here. We won't recruit non-Chinese members because our scale is not big enough and still needs certain development. Thank you for understanding ;) 
 
 Of course, we still welcome you to post information about us on GitHub.
