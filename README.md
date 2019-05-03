@@ -22,7 +22,7 @@
 
 ## 我能够 `Fork` 后发起 `Pull Request` 吗？
 
-很抱歉，因为这是我们用来收集用户反馈的项目，所以不支持外来的 `pull request`。您可以 `fork`，但是我们不会接受任何 `pull request` 请求。
+很抱歉，因为这是我们用来收集用户反馈的项目，所以不支持外来的 `pull request`。您可以 `fork`，但是我们不会接受任何 `pull request`。
 
 ## 我能够加入 DBRT 的开发组吗？
 
