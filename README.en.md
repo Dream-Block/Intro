@@ -20,7 +20,7 @@ Then go to the [Issues page](https://github.com/Dream-Block/Intro/issues), click
 
 ## Can I "Fork" or "Pull Request"?
 
-Sorry, because this is the project we use to collect user feedback, we don't support the external `pull request`. You can `fork`, but we won't accept any `pull request` requests.
+Sorry, because this is the project we use to collect user feedback, we don't support the external `pull request`. You can `fork`, but we won't accept any `pull request`.
 
 ## Can I join the DBRT development team?
 
